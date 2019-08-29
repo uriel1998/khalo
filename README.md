@@ -14,7 +14,7 @@ A selfhosted way to create images with quotations
  
 ## 1. About
 
-These programs creates an image with text upon it from either a `fortune` file or a plain text file.
+These programs creates an image with text upon it from either a `fortune` file or a plain text file.  You can read the [blog post about it here.](https://ideatrash.net/?p=70844)
 
 ## 2. License
 
